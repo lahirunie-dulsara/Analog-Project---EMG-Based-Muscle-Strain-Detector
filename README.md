@@ -10,7 +10,7 @@ The filtered signal is fed into a comparator, which determines the muscle strain
 
 The device captures muscle signals using three electrodes placed on the skin. The weak EMG signals are amplified through an instrumentation amplifier for precision and noise reduction. The amplified signals are then filtered using two Sallen-Key low-pass filters to remove unwanted noise and isolate the relevant frequency range. The filtered signal is fed into a comparator, which determines the muscle strain level by comparing the signal to predefined thresholds. The output strain levels—low, medium, or high—are displayed through LED indicators connected to the comparator, providing a clear and immediate visual representation of muscle activity. This streamlined process ensures accurate and real-time monitoring of muscle strain.
 
-![block_diagram](images/block_diagram.png)
+![block_diagram](Images/block_diagram.png)
 
 ## The circuit
 
