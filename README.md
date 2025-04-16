@@ -14,3 +14,5 @@ The device captures muscle signals using three electrodes placed on the skin. Th
 
 ## The circuit
 
+The circuit consisits of each item in the block diagram. More information can be found in the project report.
+
