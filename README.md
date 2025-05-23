@@ -16,7 +16,7 @@ The device captures muscle signals using three electrodes placed on the skin. Th
 
 The circuit consisits of each item in the block diagram. More information can be found in the project report including the necessary calculations done. (In the document folder). A complete figure of the schematic diagram is given below
 
-![block_diagram](Images/circuit.png)
+![block_diagram](Images/Circuit.png)
 
 ## Printed Circuit Board
 
